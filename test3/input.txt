@@ -1,0 +1,6 @@
+# Filename          exposure  1/shutter_speed f/stop gain(db) ND_filters
+notredame5.jpg      2.514             0.01326 8 0 0
+notredame4.jpg      1.588             0.02095 8 0 0
+notredame3.jpg      1.0               0.03333 8 0 0
+notredame2.jpg      0.6298               0.05304 8 0 0
+notredame1.jpg      0.3977             0.08380 8 0 0

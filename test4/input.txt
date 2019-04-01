@@ -1,0 +1,12 @@
+# Filename          exposure  1/shutter_speed f/stop gain(db) ND_filters
+agia_sofia1.jpg	    0.125     0.125
+agia_sofia2.jpg	    0.0666    0.125
+agia_sofia3.jpg	    0.0333     0.125
+agia_sofia4.jpg	    0.0166     0.125
+agia_sofia5.jpg	    0.008     0.125
+agia_sofia6.jpg	    0.004     0.125
+agia_sofia7.jpg	    0.0025  0.125
+agia_sofia8.jpg	    0.00156     0.125
+agia_sofia9.jpg	    0.001     0.125
+agia_sofia10.jpg    0.000625     0.125
+agia_sofia11.jpg    0.00025     0.125
